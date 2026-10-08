@@ -57,8 +57,8 @@ mini_katalog/
 - Flutter SDK kurulu olmali ve ortam degiskenlerine (PATH) tanimlanmis olmalidir.
 
 ### 1. Depoyu Klonlayin
-git clone https://github.com/cavdarbh/mini_katalog.git
-cd mini_katalog
+git clone https://github.com/cavdarbh/mini-katalog.git
+cd mini-katalog
 
 ### 2. Bagimliliklari Dogrulayin
 flutter pub get
